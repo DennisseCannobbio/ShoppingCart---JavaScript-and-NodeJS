@@ -1,0 +1,46 @@
+{
+    "music": [
+        {
+            "id": 1,
+            "name": "Álbum 1",
+            "price": 1299,
+            "imgName": "Album 1.png"
+        },
+
+        {
+            "id": 2,
+            "name": "Álbum 2",
+            "price": 1499,
+            "imgName": "Album 2.png"
+        },
+
+        {
+            "id": 3,
+            "name": "Álbum 3",
+            "price": 999,
+            "imgName": "Album 3.png"
+        },
+
+        {
+            "id": 4,
+            "name": "Álbum 4",
+            "price": 1999,
+            "imgName": "Album 4.png"
+        }
+    ],
+    "merch": [
+        {
+            "id": 5,
+            "name": "Polera",
+            "price": 1999,
+            "imgName": "Shirt.png"
+        },
+
+        {
+            "id": 6,
+            "name": "Taza de café",
+            "price": 699,
+            "imgName": "Cofee.png"
+        }
+    ]
+}   
